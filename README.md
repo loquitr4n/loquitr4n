@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @loquitr4n
+- 👀 I’m interested in data science, web development and machine learning.
+- 🌱 I’m currently learning Python.
+- 📫 How to reach me: https://www.linkedin.com/in/drfdouglas/
